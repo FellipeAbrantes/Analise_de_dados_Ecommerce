@@ -19,15 +19,22 @@ Investigar distribuições geográficas dos clientes;
 Criar visualizações de dados (Seaborn/Matplotlib e Power BI) para apoiar decisões de negócio.
 
 🧠 Principais Insights Obtidos:
+
 Métrica	Valor / Observação
+
 ticket médio R$205.83
-Total de pedidos	98665
+
+Total de pedidos	98.665
+
 Receita total	R$ 21.183.543,46
+
 Total de clientes únicos	98665
+
 Crescimento médio mensal	-52,10% (indicando queda de receita média nos meses analisados)
+
 Pedidos não aprovados	15
-Pedidos não enviados	1.483
-Pedidos não entregues	3.699
+Pedidos não enviados	1.245
+Pedidos não entregues	2.567
 
 Esses resultados indicam que há ineficiências logísticas e possíveis oportunidades de melhoria operacional no fluxo de entrega e aprovação de pedidos.
 
@@ -64,6 +71,7 @@ Acompanhar métricas de desempenho logístico;
 Visualizar tendências de crescimento e receita total.
 
 🛠️ Tecnologias Utilizadas:
+
 Categoria	Ferramentas
 Linguagem	Python
 Bibliotecas	Pandas, NumPy, Matplotlib, Seaborn
@@ -72,6 +80,7 @@ Ambiente	Jupyter Notebook
 Banco de dados (fonte)	Olist E-commerce Public Dataset
 
 🧾 Conclusão:
+
 O projeto demonstra domínio completo do ciclo analítico:
 
 Coleta e integração de múltiplas fontes de dados;
