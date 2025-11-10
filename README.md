@@ -84,6 +84,7 @@ Comunicação visual e interpretação de insights.
 
 ✍️ Autor:
 Fellipe Abrantes
-📧 fellipeabrantesoares@gmail.com
+📧 fellipeabrantesoares@gmail.com 
+
 🔗 LinkedIn https://www.linkedin.com/in/fellipe-abrantes-772a76354/
  
