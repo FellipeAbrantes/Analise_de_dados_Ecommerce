@@ -22,19 +22,22 @@ Criar visualizações de dados (Seaborn/Matplotlib e Power BI) para apoiar decis
 
 Métrica	Valor / Observação
 
-ticket médio R$205.83
+ticket médio: R$205.83
 
-Total de pedidos	98.665
+Total de pedidos:	98.665
 
-Receita total	R$ 21.183.543,46
+Receita total:	R$ 21.183.543,46
 
-Total de clientes únicos	98665
+Total de clientes únicos:	98.665
 
-Crescimento médio mensal	-52,10% (indicando queda de receita média nos meses analisados)
+Crescimento médio mensal:	-52,10% (indicando queda de receita média nos meses analisados)
 
-Pedidos não aprovados	15
-Pedidos não enviados	1.245
-Pedidos não entregues	2.567
+Pedidos não aprovados:	15
+
+Pedidos não enviados:	1.245
+
+Pedidos não entregues:	2.567
+
 
 Esses resultados indicam que há ineficiências logísticas e possíveis oportunidades de melhoria operacional no fluxo de entrega e aprovação de pedidos.
 
