@@ -94,6 +94,8 @@ Cálculo de métricas de negócio relevantes;
 
 Comunicação visual e interpretação de insights.
 
+Dá uma olhada: Analise-de-Dados-E-commerce-da-Olist.pdf
+
 ✍️ Autor:
 Fellipe Abrantes
 📧 fellipeabrantesoares@gmail.com 
